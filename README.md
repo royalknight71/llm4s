@@ -1,4 +1,5 @@
 # LLM4S - Large Language Models for Scala
+,
 
 <h4 align="center">
     <a href="https://github.com/llm4s/llm4s/blob/main/LICENSE">
